@@ -3,7 +3,7 @@ Aquila Improvement Proposals (AIPs) describes standards for the Aquila Network, 
 
 ## Contributing
 
-Clone the repository and add your AIP to it. There is a [template AIP here](https://github.com/Aquila-Network/AIP). Then submit a Pull Request to [AIPs repository](https://github.com/Aquila-Network/AIP).
+Clone the repository and add your AIP to it. There is a [template AIP here](https://raw.githubusercontent.com/Aquila-Network/AIP/main/aip-template.md). Then submit a Pull Request to [AIPs repository](https://github.com/Aquila-Network/AIP).
 
 **References:**
 
