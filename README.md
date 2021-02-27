@@ -1,2 +1,4 @@
-# AIP
-The Aquila Improvement Proposal repository
+# AIPs
+Aquila Improvement Proposals (AIPs) describes standards for the Aquila Network, including core modules protocol specifications, client APIs, and ecosystem standards.
+
+
